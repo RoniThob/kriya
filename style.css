@@ -19,7 +19,7 @@
 
 @font-face {
     font-family: 'Friz Quadrata';
-   src: url('/fontfriz.woff');
+   src: url('fontfriz.woff');
 }
 
 html {
@@ -236,7 +236,7 @@ p{
 /* produk section */
 
 .menu {
-    background-image: url(/bg2.jpg);
+    background-image: url(bg2.jpg);
     background-repeat: repeat;
     background-size: cover;
     background-position: center top;
